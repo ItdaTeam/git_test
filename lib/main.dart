@@ -103,9 +103,6 @@ class _MyHomePageState extends State<MyHomePage> {
               style: Theme.of(context).textTheme.headline4,
             ),
 
-            Text('ㄱ', style: Theme.of(context).textTheme.headline4,),
-
-            Text('ㄱ', style: Theme.of(context).textTheme.headline4,),
 
 
 
